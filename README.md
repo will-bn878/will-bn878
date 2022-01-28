@@ -1,0 +1,4 @@
+- Hello, I'm Will Blackmore. Currently, I'm using GitHub to further my knowledge in the world of computer science.
+- This account will mostly be used for education.
+- I can be reached at willblackmore777@gmail.com.
+- (This was last updated 1/28/2022)
